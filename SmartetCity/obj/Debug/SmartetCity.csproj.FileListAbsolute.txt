@@ -1,0 +1,11 @@
+C:\Users\qiqe-\Desktop\SmartetCity\SmartetCity\bin\Debug\SmartetCity.exe.config
+C:\Users\qiqe-\Desktop\SmartetCity\SmartetCity\bin\Debug\SmartetCity.exe
+C:\Users\qiqe-\Desktop\SmartetCity\SmartetCity\bin\Debug\SmartetCity.pdb
+C:\Users\qiqe-\Desktop\SmartetCity\SmartetCity\obj\Debug\SmartetCity.csprojAssemblyReference.cache
+C:\Users\qiqe-\Desktop\SmartetCity\SmartetCity\obj\Debug\SmartetCity.Form1.resources
+C:\Users\qiqe-\Desktop\SmartetCity\SmartetCity\obj\Debug\SmartetCity.Properties.Resources.resources
+C:\Users\qiqe-\Desktop\SmartetCity\SmartetCity\obj\Debug\SmartetCity.csproj.GenerateResource.cache
+C:\Users\qiqe-\Desktop\SmartetCity\SmartetCity\obj\Debug\SmartetCity.csproj.CoreCompileInputs.cache
+C:\Users\qiqe-\Desktop\SmartetCity\SmartetCity\obj\Debug\SmartetCity.exe
+C:\Users\qiqe-\Desktop\SmartetCity\SmartetCity\obj\Debug\SmartetCity.pdb
+C:\Users\qiqe-\Desktop\SmartetCity\SmartetCity\obj\Debug\SmartetCity.Form2.resources
